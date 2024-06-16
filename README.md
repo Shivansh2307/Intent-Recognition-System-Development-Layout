@@ -1,8 +1,7 @@
-# Intent-Recognition-System-Development-Layout
-The primary goal of this project is to design and implement an intent recognition system capable of accurately understanding user intents conveyed through natural language input. The system should be able to classify user queries or commands into predefined categories or intents, enabling effective interaction between users and the system.
+# TECHNICAL SUMMARY
 
-# Objective:
-The primary goal of this project is to design and implement an intent recognition system capable of accurately understanding user intents conveyed through natural language input.
+# Objective
+The primary goal of this project is to design and implement an intent recognition system capable of accurately understanding user intents conveyed through natural language input. The system should be able to classify user queries or commands into predefined categories or intents, enabling effective interaction between users and the system.
 
 # Methodology:
 1. Defined a set of intents relevant to the domain of application.
